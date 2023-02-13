@@ -1,0 +1,15 @@
+/* Styling goes in this file */
+
+body {
+	font-family: "Arial";
+  font-size: 24px;
+}
+
+#frame {
+  width: 100px;
+  height: 100px;
+}
+
+line {
+  stroke-width: 10px;
+}
